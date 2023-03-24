@@ -1,0 +1,3 @@
+requirment & planning
+design 
+coding & teting
